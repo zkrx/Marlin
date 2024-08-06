@@ -56,6 +56,9 @@
 
 #include "pins_MKS_BASE_common.h" // ... RAMPS
 
+#define HEATER_1_PIN                MOSFET_B_PIN
+
+
 /*
   Available connectors on MKS BASE v1.4
 
